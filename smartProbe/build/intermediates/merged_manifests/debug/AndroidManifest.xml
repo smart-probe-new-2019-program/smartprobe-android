@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.test.smartprobe"
+    android:versionCode="1"
+    android:versionName="3.0.0" >
+
+    <uses-sdk
+        android:minSdkVersion="12"
+        android:targetSdkVersion="16" />
+
+    <uses-permission android:name="android.hardware.usb.host" />
+
+    <uses-feature
+        android:name="android.hardware.usb.host"
+        android:required="true" />
+
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.USB_PERMISSION" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+
+    <!-- Internet Permissions -->
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <!-- Network State Permissions -->
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+
+    <!-- <uses-permission android:name="android.permission.MANAGE_USB" /> -->
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+    <uses-permission android:name="android.permission.GET_TASKS" />
+    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
+
+    <application
+        android:name="com.test.smartprobe.custom.MyApplication"
+        android:allowBackup="true"
+        android:debuggable="true"
+        android:hardwareAccelerated="true"
+        android:icon="@drawable/ic_launcher"
+        android:label=""
+        android:theme="@style/AppTheme.NoActionBar" >
+        <activity
+            android:name="com.test.smartprobe.activity.SplashActivity"
+            android:configChanges="keyboardHidden|orientation|screenSize"
+            android:label="@string/app_name"
+            android:launchMode="singleInstance" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+
+                <action android:name="android.hardware.usb.action.USB_DEVICE_ATTACHED" />
+                <action android:name="android.hardware.usb.action.USB_ACCESSORY_ATTACHED" />
+            </intent-filter>
+
+            <meta-data
+                android:name="android.hardware.usb.action.USB_DEVICE_ATTACHED"
+                android:resource="@xml/device_filter" />
+        </activity>
+        <activity
+            android:name="com.test.smartprobe.activity.SmartProbeActivity"
+            android:configChanges="keyboardHidden|orientation|screenSize"
+            android:screenOrientation="sensorLandscape"
+            android:theme="@style/AppTheme.NoActionBar" >
+
+            <!-- <intent-filter> -->
+            <!-- <action android:name="android.hardware.usb.action.USB_DEVICE_ATTACHED" /> -->
+            <!-- <action android:name="android.hardware.usb.action.USB_ACCESSORY_ATTACHED" /> -->
+            <!-- </intent-filter> -->
+
+
+            <!-- <meta-data -->
+            <!-- android:name="android.hardware.usb.action.USB_DEVICE_ATTACHED" -->
+            <!-- android:resource="@xml/device_filter" /> -->
+        </activity>
+        <activity
+            android:name="com.test.smartprobe.activity.SettingActivity"
+            android:configChanges="keyboardHidden|orientation|screenSize"
+            android:label=""
+            android:screenOrientation="sensorLandscape" />
+        <activity
+            android:name="com.test.smartprobe.activity.LoginActivity"
+            android:configChanges="keyboardHidden|orientation|screenSize"
+            android:label=""
+            android:launchMode="singleInstance"
+            android:screenOrientation="sensorLandscape"
+            android:theme="@style/webview"
+            android:windowSoftInputMode="adjustResize" />
+        <activity
+            android:name="com.test.smartprobe.activity.LocationSettingActivity"
+            android:configChanges="keyboardHidden|orientation"
+            android:label=""
+            android:screenOrientation="sensorLandscape"
+            android:windowSoftInputMode="stateAlwaysHidden|adjustResize" />
+        <activity
+            android:name="com.test.smartprobe.activity.LogDetailsActivity"
+            android:configChanges="keyboardHidden"
+            android:label=""
+            android:screenOrientation="sensorLandscape"
+            android:theme="@style/AppTheme.NoActionBar"
+            android:windowSoftInputMode="adjustResize" />
+
+        <service android:name="com.test.smartprobe.launch.AutoLaunchService" />
+
+        <receiver android:name="com.test.smartprobe.launch.BootReciever" >
+            <intent-filter>
+                <action android:name="android.intent.action.BOOT_COMPLETED" />
+            </intent-filter>
+        </receiver>
+        <receiver
+            android:name="com.test.smartprobe.launch.ServiceRestarterBroadcastReceiver"
+            android:enabled="true"
+            android:exported="true"
+            android:label="RestartServiceWhenStopped" >
+            <intent-filter>
+                <action android:name="com.test.smartprobe.launch.RestartService" />
+            </intent-filter>
+        </receiver>
+
+        <meta-data
+            android:name="io.fabric.ApiKey"
+            android:value="d20c04319869c8d87d3ae529a805d6c73021b982" />
+    </application>
+
+</manifest>

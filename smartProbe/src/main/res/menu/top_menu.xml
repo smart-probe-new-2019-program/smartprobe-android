@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    >
+    
+    <item
+        android:id="@+id/setting"
+        android:title="@string/setting"
+        />
+    <item
+        android:id="@+id/location_setting"
+        android:title="@string/location_setting"/>
+    
+    <item
+        android:id="@+id/reload"
+        android:title="@string/reload"/>
+    <item
+        android:id="@+id/reset"
+        android:title="@string/reset"/>
+
+    <item
+        android:id="@+id/checkUpdate"
+        android:title="@string/checkUpdate"/>
+
+    <item
+        android:id="@+id/logout"
+        android:title="@string/logout"/>
+
+</menu>

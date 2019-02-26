@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <!-- 0x067B / 0x2303: Prolific PL2303 -->
+    <usb-device vendor-id="1659" product-id="8963" />
+    
+	
+    <!-- 0x04d8 / 0x1061: Custom Circuit Solotion CDC- Easy IO? -->
+    <usb-device vendor-id="1240" product-id="4193" />
+    
+    
+    <!-- 0x04d8 / 0x1058: Custom Circuit Solotion CDC- Data Logger? -->
+    <usb-device vendor-id="1240" product-id="4184" />
+    
+    <!-- 0x04d8 / 0xf668: Custom Circuit Solotion CDC/SmartLine-RotaScope -->
+    <usb-device vendor-id="1240" product-id="63080" />    
+    
+</resources>

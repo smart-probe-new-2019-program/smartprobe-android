@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SmartProbe</string>
+    <string name="app_name_subtitle">.t</string>
+    <string name="api_URL">http://smartprobe.com.au/apprequest.php/</string>
+    <string name="api_URL_retrieve">http://smartprobe.com.au/apprequest3.php</string>
+    <string name="api_URL_versioncheck">https://smartprobe.com.au/versioncheck.php</string>
+    <string name="smart_probe">Smart Probe in Action</string>
+    <string name="setting">Settings</string>
+    <string name="reload">Reload</string>
+    <string name="reset">Reset</string>
+    <string name="logout">Logout</string>
+    <string name="location_setting">Location</string>
+    <string name="button_send">Send</string>
+    <string name="smartprobeweb"><a href="http://dev.smart-catalog.com.au/smartprobe/smartprobes">http://dev.smart-catalog.com.au/smartprobe/smartprobes</a></string>
+    <string name="msg_device_not_connected">There is no connected serial(usb) device</string>
+    <string name="settingtime_prompt">Select Sent Time</string>
+    <string name="settingread_prompt">Select Read Time</string>
+    <string name="checkUpdate">Check for Update</string>
+    <string name="updateNow">Update</string>
+    <string name="Open">Open</string>
+    <string name="Close">Close</string>
+
+
+    <string-array name="settingtimearray">
+        <item>1</item>
+        <item>2</item>
+        <item>5</item>
+        <item>10</item>
+        <item>15</item>
+        <item>20</item>
+        <item>40</item>
+        <item>60</item>
+        <item>90</item>
+        <item>120</item>
+    </string-array>
+
+</resources>
