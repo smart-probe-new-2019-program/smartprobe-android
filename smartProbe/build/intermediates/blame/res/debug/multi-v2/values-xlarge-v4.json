@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\Mina\\AndroidStudioProjects\\SmartProbe\\smartProbe\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-xlarge-v4\\values-xlarge-v4.xml",
+            "outputFile": "C:\\Users\\JD\\Documents\\GitHub\\SmartProbe\\smartProbe\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-xlarge-v4\\values-xlarge-v4.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Mina\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.3.0.aar\\bf2ac4140010b50589cbabe141423532\\res\\values-xlarge-v4\\values-xlarge-v4.xml",
+                    "source": "C:\\Users\\JD\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.3.0.aar\\9bfaf776c9705c9f8c56125b71347d56\\res\\values-xlarge-v4\\values-xlarge-v4.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10",
                         "startColumns": "4,4,4,4,4,4,4,4,4",

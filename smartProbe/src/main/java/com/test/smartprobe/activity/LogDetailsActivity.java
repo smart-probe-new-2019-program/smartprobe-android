@@ -28,7 +28,7 @@ public class LogDetailsActivity extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        AppUtil.setupActivity(this);
+        //AppUtil.setupActivity(this);
         setContentView(R.layout.smart_probe_activity_main);
         String serialno= (String) getIntent().getExtras().getCharSequence("serialno");
 

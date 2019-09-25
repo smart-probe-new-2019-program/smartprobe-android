@@ -41,7 +41,7 @@ public class SettingActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         // TODO Auto-generated method stub
         super.onCreate(savedInstanceState);
-        AppUtil.setupActivity(this);
+        //AppUtil.setupActivity(this);
         setContentView(R.layout.settings);
 
         // Creating database for SmartProbe

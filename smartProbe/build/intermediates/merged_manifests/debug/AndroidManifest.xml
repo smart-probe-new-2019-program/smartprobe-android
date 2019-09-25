@@ -17,15 +17,9 @@
     <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
     <uses-permission android:name="android.permission.USB_PERMISSION" />
     <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
-    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
-
-    <!-- Internet Permissions -->
-    <uses-permission android:name="android.permission.INTERNET" />
-
-    <!-- Network State Permissions -->
-    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
-
-    <!-- <uses-permission android:name="android.permission.MANAGE_USB" /> -->
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" /> <!-- Internet Permissions -->
+    <uses-permission android:name="android.permission.INTERNET" /> <!-- Network State Permissions -->
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" /> <!-- <uses-permission android:name="android.permission.MANAGE_USB" /> -->
     <uses-permission android:name="android.permission.READ_PHONE_STATE" />
     <uses-permission android:name="android.permission.GET_TASKS" />
     <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
@@ -38,6 +32,7 @@
         android:icon="@drawable/ic_launcher"
         android:label=""
         android:theme="@style/AppTheme.NoActionBar" >
+        <activity android:name="com.test.smartprobe.activity.CaptureProbeActivity" />
         <activity
             android:name="com.test.smartprobe.activity.SplashActivity"
             android:configChanges="keyboardHidden|orientation|screenSize"
@@ -87,10 +82,8 @@
             android:windowSoftInputMode="adjustResize" />
         <activity
             android:name="com.test.smartprobe.activity.LocationSettingActivity"
-            android:configChanges="keyboardHidden|orientation"
             android:label=""
-            android:screenOrientation="sensorLandscape"
-            android:windowSoftInputMode="stateAlwaysHidden|adjustResize" />
+            android:screenOrientation="sensorLandscape" />
         <activity
             android:name="com.test.smartprobe.activity.LogDetailsActivity"
             android:configChanges="keyboardHidden"
@@ -118,7 +111,7 @@
 
         <meta-data
             android:name="io.fabric.ApiKey"
-            android:value="d20c04319869c8d87d3ae529a805d6c73021b982" />
+            android:value="313bf4eb35a626f6afe5ea832fe99c93b322306a" />
     </application>
 
 </manifest>

@@ -13,86 +13,81 @@
     <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
     <uses-permission android:name="android.permission.USB_PERMISSION" />
     <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
-    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
-
-
-    <!-- Internet Permissions -->
-    <uses-permission android:name="android.permission.INTERNET" />
-
-    <!-- Network State Permissions -->
-    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
-
-    <!-- <uses-permission android:name="android.permission.MANAGE_USB" /> -->
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" /> <!-- Internet Permissions -->
+    <uses-permission android:name="android.permission.INTERNET" /> <!-- Network State Permissions -->
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" /> <!-- <uses-permission android:name="android.permission.MANAGE_USB" /> -->
     <uses-permission android:name="android.permission.READ_PHONE_STATE" />
-
     <uses-permission android:name="android.permission.GET_TASKS" />
     <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
 
     <application
+        android:name=".custom.MyApplication"
         android:allowBackup="true"
+        android:hardwareAccelerated="true"
         android:icon="@drawable/ic_launcher"
         android:label=""
-        android:theme="@style/AppTheme.NoActionBar"
-        android:hardwareAccelerated="true"
-        android:name=".custom.MyApplication">
-
+        android:theme="@style/AppTheme.NoActionBar">
+        <activity android:name=".activity.CaptureProbeActivity"></activity>
         <activity
             android:name=".activity.SplashActivity"
+            android:configChanges="keyboardHidden|orientation|screenSize"
             android:label="@string/app_name"
-            android:launchMode="singleInstance"
-            android:configChanges="keyboardHidden|orientation|screenSize">
+            android:launchMode="singleInstance">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
+
                 <category android:name="android.intent.category.LAUNCHER" />
+
                 <action android:name="android.hardware.usb.action.USB_DEVICE_ATTACHED" />
                 <action android:name="android.hardware.usb.action.USB_ACCESSORY_ATTACHED" />
             </intent-filter>
+
             <meta-data
                 android:name="android.hardware.usb.action.USB_DEVICE_ATTACHED"
                 android:resource="@xml/device_filter" />
         </activity>
         <activity
             android:name=".activity.SmartProbeActivity"
-            android:theme="@style/AppTheme.NoActionBar"
             android:configChanges="keyboardHidden|orientation|screenSize"
-            android:screenOrientation="sensorLandscape">
-            <!--<intent-filter>-->
-                <!--<action android:name="android.hardware.usb.action.USB_DEVICE_ATTACHED" />-->
-                <!--<action android:name="android.hardware.usb.action.USB_ACCESSORY_ATTACHED" />-->
-            <!--</intent-filter>-->
+            android:screenOrientation="sensorLandscape"
+            android:theme="@style/AppTheme.NoActionBar">
 
-            <!--<meta-data-->
-                <!--android:name="android.hardware.usb.action.USB_DEVICE_ATTACHED"-->
-                <!--android:resource="@xml/device_filter" />-->
+            <!-- <intent-filter> -->
+            <!-- <action android:name="android.hardware.usb.action.USB_DEVICE_ATTACHED" /> -->
+            <!-- <action android:name="android.hardware.usb.action.USB_ACCESSORY_ATTACHED" /> -->
+            <!-- </intent-filter> -->
+
+
+            <!-- <meta-data -->
+            <!-- android:name="android.hardware.usb.action.USB_DEVICE_ATTACHED" -->
+            <!-- android:resource="@xml/device_filter" /> -->
         </activity>
         <activity
             android:name=".activity.SettingActivity"
             android:configChanges="keyboardHidden|orientation|screenSize"
             android:label=""
-            android:screenOrientation="sensorLandscape"/>
+            android:screenOrientation="sensorLandscape" />
         <activity
             android:name=".activity.LoginActivity"
+            android:configChanges="keyboardHidden|orientation|screenSize"
             android:label=""
             android:launchMode="singleInstance"
-            android:configChanges="keyboardHidden|orientation|screenSize"
-            android:windowSoftInputMode="adjustResize"
+            android:screenOrientation="sensorLandscape"
             android:theme="@style/webview"
-            android:screenOrientation="sensorLandscape"/>
+            android:windowSoftInputMode="adjustResize" />
         <activity
             android:name=".activity.LocationSettingActivity"
-            android:configChanges="keyboardHidden|orientation"
             android:label=""
-            android:windowSoftInputMode="stateAlwaysHidden|adjustResize"
-            android:screenOrientation="sensorLandscape"/>
+            android:screenOrientation="sensorLandscape" />
         <activity
             android:name=".activity.LogDetailsActivity"
             android:configChanges="keyboardHidden"
             android:label=""
+            android:screenOrientation="sensorLandscape"
             android:theme="@style/AppTheme.NoActionBar"
-            android:windowSoftInputMode="adjustResize"
-            android:screenOrientation="sensorLandscape"/>
+            android:windowSoftInputMode="adjustResize" />
 
-        <service android:name=".launch.AutoLaunchService"></service>
+        <service android:name=".launch.AutoLaunchService" />
 
         <receiver android:name=".launch.BootReciever">
             <intent-filter>
@@ -105,12 +100,13 @@
             android:exported="true"
             android:label="RestartServiceWhenStopped">
             <intent-filter>
-                <action android:name="com.test.smartprobe.launch.RestartService"/>
+                <action android:name="com.test.smartprobe.launch.RestartService" />
             </intent-filter>
         </receiver>
+
         <meta-data
             android:name="io.fabric.ApiKey"
-            android:value="d20c04319869c8d87d3ae529a805d6c73021b982" />
+            android:value="313bf4eb35a626f6afe5ea832fe99c93b322306a" />
     </application>
 
 </manifest>

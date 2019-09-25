@@ -1,8 +1,8 @@
 <component name="libraryTable">
   <library name="Gradle: artifacts:usbSerialLibrary:unspecified@jar">
     <CLASSES>
-      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/usbSerialLibrary-release.aar/6f44fcca004a93ad6e0b1ec97fbf8853/jars/classes.jar!/" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/usbSerialLibrary-release.aar/6f44fcca004a93ad6e0b1ec97fbf8853/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/usbSerialLibrary-release.aar/16892348e6d3e1d406a0e699f6a95513/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/usbSerialLibrary-release.aar/16892348e6d3e1d406a0e699f6a95513/res" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />

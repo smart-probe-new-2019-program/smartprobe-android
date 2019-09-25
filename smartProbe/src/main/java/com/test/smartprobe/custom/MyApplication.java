@@ -7,9 +7,11 @@ import android.app.PendingIntent;
 import android.content.Context;
 import android.content.Intent;
 
+import com.crashlytics.android.Crashlytics;
 import com.test.smartprobe.activity.SplashActivity;
 import com.test.smartprobe.util.LogUtil;
 
+import io.fabric.sdk.android.Fabric;
 import java.util.Timer;
 import java.util.TimerTask;
 
@@ -30,6 +32,7 @@ public class MyApplication  extends Application {
 
 
         super.onCreate();
+        Fabric.with(this, new Crashlytics());
 
         init();
     }

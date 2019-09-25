@@ -95,6 +95,7 @@
         padding: 0 0 !important;
     
         }
+
         .bg-red {
         background: #FF0000;
         margin-left: 10px;
@@ -111,6 +112,9 @@
         width: 49%;
         }
         }
+
+
+
     </style>
     <script src="jquery-1.7.1.js"></script>
 
@@ -138,7 +142,7 @@ $(function() {
         });
 
         function loginAction() {
-
+            JSInterface.loadProgressDialog();
             var username = document.getElementById('username').value;
             var password = document.getElementById('password').value;
             //alert(btoa(CryptoJS.SHA512('calpine')));
@@ -178,31 +182,38 @@ $(function() {
                                   async: false,
                                   success: function(responseDataProbeList) {
                                       if (responseDataProbeList.result == "success") {
+                                          JSInterface.dismissProgressDialog();
                                           JSInterface.changeActivity();
                                       } else {
+                                          JSInterface.dismissProgressDialog();
                                           document.getElementById('result').style.display = 'block';
                                           document.getElementById('result').innerHTML = 'Something went wrong, try again!';
                                       }
                                   }
                               });  */
                         } else if (responseData.result == "fail") {
+                            JSInterface.dismissProgressDialog();
                             document.getElementById('result').style.display = 'block';
                             document.getElementById('result').innerHTML = 'Your username or password incorrect, try again!';
                         } else {
+                            JSInterface.dismissProgressDialog();
                             document.getElementById('result').style.display = 'block';
                             document.getElementById('result').innerHTML = 'Something went wrong, try again!';
                         }
                     },
                     error: function(XMLHttpRequest, textStatus, errorThrown) {
         if (XMLHttpRequest.readyState == 4) {
+            JSInterface.dismissProgressDialog();
             // HTTP error (can be checked by XMLHttpRequest.status and XMLHttpRequest.statusText)
         }
         else if (XMLHttpRequest.readyState == 0) {
+            JSInterface.dismissProgressDialog();
             // Network error (i.e. connection refused, access denied due to CORS, etc.)
              document.getElementById('result').style.display = 'block';
                             document.getElementById('result').innerHTML = 'No network connection!';
         }
         else {
+            JSInterface.dismissProgressDialog();
             // something weird is happening
         }
     }
@@ -218,24 +229,32 @@ $(function() {
             document.getElementById('result').innerHTML = "";
         }
 
+
+
+
     </script>
 </head>
 
 
 <body>
+
 <div class="login-wrap">
     <div class="my-profile-bg content-position" id="container">
         <h2 class="heading">User Login</h2>
+        <div class="loader"></div>
         <div id="result">Invalid User or Password !</div>
         <form method="post">
             <div class="input-container">
-                <input class="custom-text" type="text" required name="username" id="username" placeholder="Username">
+                <input class="custom-text" type="text" required name="username" id="username"
+                       placeholder="Username">
             </div>
             <div class="input-container">
-                <input class="custom-text" required type="password" name="password" id="password" placeholder="Password">
+                <input class="custom-text" required type="password" name="password" id="password"
+                       placeholder="Password">
             </div>
             <div class="input-container">
-                <button type="button" onclick="loginAction()" class="login-with bg-blue">Login</button>
+                <button type="button" onclick="loginAction()" class="login-with bg-blue">Login
+                </button>
             </div>
 
         </form>

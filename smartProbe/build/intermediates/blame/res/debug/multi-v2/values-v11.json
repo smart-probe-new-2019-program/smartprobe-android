@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\Mina\\AndroidStudioProjects\\SmartProbe\\smartProbe\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v11\\values-v11.xml",
+            "outputFile": "C:\\Users\\JD\\Documents\\GitHub\\SmartProbe\\smartProbe\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v11\\values-v11.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Mina\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.3.0.aar\\bf2ac4140010b50589cbabe141423532\\res\\values-v11\\values-v11.xml",
+                    "source": "C:\\Users\\JD\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.3.0.aar\\9bfaf776c9705c9f8c56125b71347d56\\res\\values-v11\\values-v11.xml",
                     "from": {
                         "startLines": "2,8,14,20,26,32,38,39,40,45,50,52,54,55,56,107,159",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -23,7 +23,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\Mina\\AndroidStudioProjects\\SmartProbe\\smartProbe\\src\\main\\res\\values-v11\\styles.xml",
+                    "source": "C:\\Users\\JD\\Documents\\GitHub\\SmartProbe\\smartProbe\\src\\main\\res\\values-v11\\styles.xml",
                     "from": {
                         "startLines": "6",
                         "startColumns": "4",

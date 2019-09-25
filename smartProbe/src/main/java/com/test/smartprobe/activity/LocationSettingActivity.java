@@ -50,7 +50,7 @@ public class LocationSettingActivity extends AppCompatActivity {
 //    private ScrollView scrollView;
     public boolean isPassFocused;
     private Toolbar toolbar;
-
+    private TextView textViewLocationStatus;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -94,6 +94,7 @@ public class LocationSettingActivity extends AppCompatActivity {
 //                    isPassFocused = false;
 //            }
 //        });
+        textViewLocationStatus = (TextView) findViewById(R.id.location_status);
         location_submit = (Button) findViewById(R.id.location_submit);
         location_submit.setOnClickListener(new OnClickListener() {
             @Override
@@ -259,13 +260,14 @@ public class LocationSettingActivity extends AppCompatActivity {
                     progressDialog.dismiss();
 
                 if (responseData) {
+                    textViewLocationStatus.setVisibility(View.GONE);
                     Toast.makeText(getBaseContext(), "Location verification success", Toast.LENGTH_LONG).show();
                     /*Intent mainIntent = new Intent(LocationSettingActivity.this, SmartProbeActivity.class);
                     LocationSettingActivity.this.startActivity(mainIntent);
                     LocationSettingActivity.this.finish();*/
                     onBackPressed();
                 } else {
-                    TextView textViewLocationStatus = (TextView) findViewById(R.id.location_status);
+                    textViewLocationStatus.setVisibility(View.VISIBLE);
                     textViewLocationStatus.setTextColor(Color.RED);
                     textViewLocationStatus.setText("Location info does not match, try again");
                 }

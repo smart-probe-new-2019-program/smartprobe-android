@@ -1,303 +1,308 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\Mina\AndroidStudioProjects\SmartProbe\smartProbe\src\main\AndroidManifest.xml:2:1-116:12
-INJECTED from C:\Users\Mina\AndroidStudioProjects\SmartProbe\smartProbe\src\main\AndroidManifest.xml:2:1-116:12
-INJECTED from C:\Users\Mina\AndroidStudioProjects\SmartProbe\smartProbe\src\main\AndroidManifest.xml:2:1-116:12
-INJECTED from C:\Users\Mina\AndroidStudioProjects\SmartProbe\smartProbe\src\main\AndroidManifest.xml:2:1-116:12
-MERGED from [:usbSerialLibrary] C:\Users\Mina\.gradle\caches\transforms-1\files-1.1\usbSerialLibrary-release.aar\6f44fcca004a93ad6e0b1ec97fbf8853\AndroidManifest.xml:2:1-18:12
-MERGED from [com.android.support:design:23.3.0] C:\Users\Mina\.gradle\caches\transforms-1\files-1.1\design-23.3.0.aar\6aa72c57bb9a5de879a1d76434c0e833\AndroidManifest.xml:17:1-24:12
-MERGED from [com.android.support:appcompat-v7:23.3.0] C:\Users\Mina\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.3.0.aar\bf2ac4140010b50589cbabe141423532\AndroidManifest.xml:17:1-27:12
-MERGED from [com.crashlytics.sdk.android:crashlytics:2.5.5] C:\Users\Mina\.gradle\caches\transforms-1\files-1.1\crashlytics-2.5.5.aar\a990133fcb96c8ffe52389feee3a9754\AndroidManifest.xml:2:1-13:12
-MERGED from [com.android.support:animated-vector-drawable:23.3.0] C:\Users\Mina\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-23.3.0.aar\f01b0c60779540892f01888230df8763\AndroidManifest.xml:2:1-9:12
-MERGED from [com.android.support:support-vector-drawable:23.3.0] C:\Users\Mina\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-23.3.0.aar\25f72bdd99307b66feeae3baeccbf1a0\AndroidManifest.xml:2:1-9:12
-MERGED from [com.android.support:recyclerview-v7:23.3.0] C:\Users\Mina\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-23.3.0.aar\41ac24fe152b92fdcd6ebe29a4f78631\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-v4:23.3.0] C:\Users\Mina\.gradle\caches\transforms-1\files-1.1\support-v4-23.3.0.aar\e1e90ef97c9c3c56f7c7f16bb9aa400f\AndroidManifest.xml:17:1-24:12
-MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.3.8] C:\Users\Mina\.gradle\caches\transforms-1\files-1.1\crashlytics-core-2.3.8.aar\465e3ee99587f3251ce54549196c787f\AndroidManifest.xml:2:1-13:12
-MERGED from [com.crashlytics.sdk.android:answers:1.3.6] C:\Users\Mina\.gradle\caches\transforms-1\files-1.1\answers-1.3.6.aar\e21acd8b0c4c643896a32e3e55158ec8\AndroidManifest.xml:2:1-13:12
-MERGED from [io.fabric.sdk.android:fabric:1.3.10] C:\Users\Mina\.gradle\caches\transforms-1\files-1.1\fabric-1.3.10.aar\9d4fcac84e2a2f71c9cced6d820522d9\AndroidManifest.xml:18:1-29:12
-MERGED from [com.crashlytics.sdk.android:beta:1.1.4] C:\Users\Mina\.gradle\caches\transforms-1\files-1.1\beta-1.1.4.aar\20c15004ec24fed90ea8d0efaca2baee\AndroidManifest.xml:2:1-13:12
-INJECTED from C:\Users\Mina\AndroidStudioProjects\SmartProbe\smartProbe\src\main\AndroidManifest.xml:2:1-116:12
-INJECTED from C:\Users\Mina\AndroidStudioProjects\SmartProbe\smartProbe\src\main\AndroidManifest.xml:2:1-116:12
-INJECTED from C:\Users\Mina\AndroidStudioProjects\SmartProbe\smartProbe\src\main\AndroidManifest.xml:2:1-116:12
+ADDED from C:\Users\JD\Documents\GitHub\SmartProbe\smartProbe\src\main\AndroidManifest.xml:2:1-112:12
+INJECTED from C:\Users\JD\Documents\GitHub\SmartProbe\smartProbe\src\main\AndroidManifest.xml:2:1-112:12
+INJECTED from C:\Users\JD\Documents\GitHub\SmartProbe\smartProbe\src\main\AndroidManifest.xml:2:1-112:12
+INJECTED from C:\Users\JD\Documents\GitHub\SmartProbe\smartProbe\src\main\AndroidManifest.xml:2:1-112:12
+MERGED from [:usbSerialLibrary] C:\Users\JD\.gradle\caches\transforms-1\files-1.1\usbSerialLibrary-release.aar\16892348e6d3e1d406a0e699f6a95513\AndroidManifest.xml:2:1-18:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\JD\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\61e5dd3b55caa5b0491400170dc01611\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:design:23.3.0] C:\Users\JD\.gradle\caches\transforms-1\files-1.1\design-23.3.0.aar\8b0ae220f1e945db6a2281002194826f\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:23.3.0] C:\Users\JD\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.3.0.aar\9bfaf776c9705c9f8c56125b71347d56\AndroidManifest.xml:17:1-27:12
+MERGED from [com.crashlytics.sdk.android:crashlytics:2.5.5] C:\Users\JD\.gradle\caches\transforms-1\files-1.1\crashlytics-2.5.5.aar\be425ca7f6976c2c9eb028f902d11755\AndroidManifest.xml:2:1-13:12
+MERGED from [com.android.support:animated-vector-drawable:23.3.0] C:\Users\JD\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-23.3.0.aar\ef077c6d24fa78cc23467502b31c3252\AndroidManifest.xml:2:1-9:12
+MERGED from [com.android.support:support-vector-drawable:23.3.0] C:\Users\JD\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-23.3.0.aar\2f93cf2e4e5340483ef354419612f6e8\AndroidManifest.xml:2:1-9:12
+MERGED from [com.android.support:recyclerview-v7:23.3.0] C:\Users\JD\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-23.3.0.aar\c7796b8c3d4e7dbfdfe1ff270625c0c9\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-v4:23.3.0] C:\Users\JD\.gradle\caches\transforms-1\files-1.1\support-v4-23.3.0.aar\b00bb7a632ef44c54602a7b9612d5a21\AndroidManifest.xml:17:1-24:12
+MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.3.8] C:\Users\JD\.gradle\caches\transforms-1\files-1.1\crashlytics-core-2.3.8.aar\9c17a41c620f782d502059dddb4a247b\AndroidManifest.xml:2:1-13:12
+MERGED from [com.crashlytics.sdk.android:answers:1.3.6] C:\Users\JD\.gradle\caches\transforms-1\files-1.1\answers-1.3.6.aar\e62a210f89c856556ab9b2404d4b7c49\AndroidManifest.xml:2:1-13:12
+MERGED from [io.fabric.sdk.android:fabric:1.3.10] C:\Users\JD\.gradle\caches\transforms-1\files-1.1\fabric-1.3.10.aar\90107e0917593847f5fa37ebb55eddaa\AndroidManifest.xml:18:1-29:12
+MERGED from [com.crashlytics.sdk.android:beta:1.1.4] C:\Users\JD\.gradle\caches\transforms-1\files-1.1\beta-1.1.4.aar\9b97dcdc90c9b98d6c10cef159d0c7c0\AndroidManifest.xml:2:1-13:12
+INJECTED from C:\Users\JD\Documents\GitHub\SmartProbe\smartProbe\src\main\AndroidManifest.xml:2:1-112:12
+INJECTED from C:\Users\JD\Documents\GitHub\SmartProbe\smartProbe\src\main\AndroidManifest.xml:2:1-112:12
+INJECTED from C:\Users\JD\Documents\GitHub\SmartProbe\smartProbe\src\main\AndroidManifest.xml:2:1-112:12
 	package
-		ADDED from C:\Users\Mina\AndroidStudioProjects\SmartProbe\smartProbe\src\main\AndroidManifest.xml:3:5-34
-		INJECTED from C:\Users\Mina\AndroidStudioProjects\SmartProbe\smartProbe\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\Mina\AndroidStudioProjects\SmartProbe\smartProbe\src\main\AndroidManifest.xml
+		ADDED from C:\Users\JD\Documents\GitHub\SmartProbe\smartProbe\src\main\AndroidManifest.xml:3:5-34
+		INJECTED from C:\Users\JD\Documents\GitHub\SmartProbe\smartProbe\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\JD\Documents\GitHub\SmartProbe\smartProbe\src\main\AndroidManifest.xml
 	android:versionName
-		ADDED from C:\Users\Mina\AndroidStudioProjects\SmartProbe\smartProbe\src\main\AndroidManifest.xml:5:5-32
-		INJECTED from C:\Users\Mina\AndroidStudioProjects\SmartProbe\smartProbe\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\Mina\AndroidStudioProjects\SmartProbe\smartProbe\src\main\AndroidManifest.xml
+		ADDED from C:\Users\JD\Documents\GitHub\SmartProbe\smartProbe\src\main\AndroidManifest.xml:5:5-32
+		INJECTED from C:\Users\JD\Documents\GitHub\SmartProbe\smartProbe\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\JD\Documents\GitHub\SmartProbe\smartProbe\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from C:\Users\Mina\AndroidStudioProjects\SmartProbe\smartProbe\src\main\AndroidManifest.xml:2:11-69
+		ADDED from C:\Users\JD\Documents\GitHub\SmartProbe\smartProbe\src\main\AndroidManifest.xml:2:11-69
 	android:versionCode
-		ADDED from C:\Users\Mina\AndroidStudioProjects\SmartProbe\smartProbe\src\main\AndroidManifest.xml:4:5-29
-		INJECTED from C:\Users\Mina\AndroidStudioProjects\SmartProbe\smartProbe\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\Mina\AndroidStudioProjects\SmartProbe\smartProbe\src\main\AndroidManifest.xml
+		ADDED from C:\Users\JD\Documents\GitHub\SmartProbe\smartProbe\src\main\AndroidManifest.xml:4:5-29
+		INJECTED from C:\Users\JD\Documents\GitHub\SmartProbe\smartProbe\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\JD\Documents\GitHub\SmartProbe\smartProbe\src\main\AndroidManifest.xml
 uses-permission#android.hardware.usb.host
-ADDED from C:\Users\Mina\AndroidStudioProjects\SmartProbe\smartProbe\src\main\AndroidManifest.xml:7:5-65
+ADDED from C:\Users\JD\Documents\GitHub\SmartProbe\smartProbe\src\main\AndroidManifest.xml:7:5-65
 	android:name
-		ADDED from C:\Users\Mina\AndroidStudioProjects\SmartProbe\smartProbe\src\main\AndroidManifest.xml:7:22-62
+		ADDED from C:\Users\JD\Documents\GitHub\SmartProbe\smartProbe\src\main\AndroidManifest.xml:7:22-62
 uses-feature#android.hardware.usb.host
-ADDED from C:\Users\Mina\AndroidStudioProjects\SmartProbe\smartProbe\src\main\AndroidManifest.xml:9:5-11:35
-MERGED from [:usbSerialLibrary] C:\Users\Mina\.gradle\caches\transforms-1\files-1.1\usbSerialLibrary-release.aar\6f44fcca004a93ad6e0b1ec97fbf8853\AndroidManifest.xml:11:5-13:35
-MERGED from [:usbSerialLibrary] C:\Users\Mina\.gradle\caches\transforms-1\files-1.1\usbSerialLibrary-release.aar\6f44fcca004a93ad6e0b1ec97fbf8853\AndroidManifest.xml:11:5-13:35
+ADDED from C:\Users\JD\Documents\GitHub\SmartProbe\smartProbe\src\main\AndroidManifest.xml:9:5-11:35
+MERGED from [:usbSerialLibrary] C:\Users\JD\.gradle\caches\transforms-1\files-1.1\usbSerialLibrary-release.aar\16892348e6d3e1d406a0e699f6a95513\AndroidManifest.xml:11:5-13:35
+MERGED from [:usbSerialLibrary] C:\Users\JD\.gradle\caches\transforms-1\files-1.1\usbSerialLibrary-release.aar\16892348e6d3e1d406a0e699f6a95513\AndroidManifest.xml:11:5-13:35
 	android:required
-		ADDED from C:\Users\Mina\AndroidStudioProjects\SmartProbe\smartProbe\src\main\AndroidManifest.xml:11:9-32
+		ADDED from C:\Users\JD\Documents\GitHub\SmartProbe\smartProbe\src\main\AndroidManifest.xml:11:9-32
 	android:name
-		ADDED from C:\Users\Mina\AndroidStudioProjects\SmartProbe\smartProbe\src\main\AndroidManifest.xml:10:9-49
+		ADDED from C:\Users\JD\Documents\GitHub\SmartProbe\smartProbe\src\main\AndroidManifest.xml:10:9-49
 uses-permission#android.permission.ACCESS_FINE_LOCATION
-ADDED from C:\Users\Mina\AndroidStudioProjects\SmartProbe\smartProbe\src\main\AndroidManifest.xml:13:5-79
+ADDED from C:\Users\JD\Documents\GitHub\SmartProbe\smartProbe\src\main\AndroidManifest.xml:13:5-79
 	android:name
-		ADDED from C:\Users\Mina\AndroidStudioProjects\SmartProbe\smartProbe\src\main\AndroidManifest.xml:13:22-76
+		ADDED from C:\Users\JD\Documents\GitHub\SmartProbe\smartProbe\src\main\AndroidManifest.xml:13:22-76
 uses-permission#android.permission.USB_PERMISSION
-ADDED from C:\Users\Mina\AndroidStudioProjects\SmartProbe\smartProbe\src\main\AndroidManifest.xml:14:5-73
-MERGED from [:usbSerialLibrary] C:\Users\Mina\.gradle\caches\transforms-1\files-1.1\usbSerialLibrary-release.aar\6f44fcca004a93ad6e0b1ec97fbf8853\AndroidManifest.xml:15:5-73
-MERGED from [:usbSerialLibrary] C:\Users\Mina\.gradle\caches\transforms-1\files-1.1\usbSerialLibrary-release.aar\6f44fcca004a93ad6e0b1ec97fbf8853\AndroidManifest.xml:15:5-73
+ADDED from C:\Users\JD\Documents\GitHub\SmartProbe\smartProbe\src\main\AndroidManifest.xml:14:5-73
+MERGED from [:usbSerialLibrary] C:\Users\JD\.gradle\caches\transforms-1\files-1.1\usbSerialLibrary-release.aar\16892348e6d3e1d406a0e699f6a95513\AndroidManifest.xml:15:5-73
+MERGED from [:usbSerialLibrary] C:\Users\JD\.gradle\caches\transforms-1\files-1.1\usbSerialLibrary-release.aar\16892348e6d3e1d406a0e699f6a95513\AndroidManifest.xml:15:5-73
 	android:name
-		ADDED from C:\Users\Mina\AndroidStudioProjects\SmartProbe\smartProbe\src\main\AndroidManifest.xml:14:22-70
+		ADDED from C:\Users\JD\Documents\GitHub\SmartProbe\smartProbe\src\main\AndroidManifest.xml:14:22-70
 uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
-ADDED from C:\Users\Mina\AndroidStudioProjects\SmartProbe\smartProbe\src\main\AndroidManifest.xml:15:5-81
+ADDED from C:\Users\JD\Documents\GitHub\SmartProbe\smartProbe\src\main\AndroidManifest.xml:15:5-81
 	android:name
-		ADDED from C:\Users\Mina\AndroidStudioProjects\SmartProbe\smartProbe\src\main\AndroidManifest.xml:15:22-78
+		ADDED from C:\Users\JD\Documents\GitHub\SmartProbe\smartProbe\src\main\AndroidManifest.xml:15:22-78
 uses-permission#android.permission.READ_EXTERNAL_STORAGE
-ADDED from C:\Users\Mina\AndroidStudioProjects\SmartProbe\smartProbe\src\main\AndroidManifest.xml:16:5-80
+ADDED from C:\Users\JD\Documents\GitHub\SmartProbe\smartProbe\src\main\AndroidManifest.xml:16:5-80
 	android:name
-		ADDED from C:\Users\Mina\AndroidStudioProjects\SmartProbe\smartProbe\src\main\AndroidManifest.xml:16:22-77
+		ADDED from C:\Users\JD\Documents\GitHub\SmartProbe\smartProbe\src\main\AndroidManifest.xml:16:22-77
 uses-permission#android.permission.INTERNET
-ADDED from C:\Users\Mina\AndroidStudioProjects\SmartProbe\smartProbe\src\main\AndroidManifest.xml:20:5-67
-MERGED from [com.crashlytics.sdk.android:crashlytics:2.5.5] C:\Users\Mina\.gradle\caches\transforms-1\files-1.1\crashlytics-2.5.5.aar\a990133fcb96c8ffe52389feee3a9754\AndroidManifest.xml:9:5-67
-MERGED from [com.crashlytics.sdk.android:crashlytics:2.5.5] C:\Users\Mina\.gradle\caches\transforms-1\files-1.1\crashlytics-2.5.5.aar\a990133fcb96c8ffe52389feee3a9754\AndroidManifest.xml:9:5-67
-MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.3.8] C:\Users\Mina\.gradle\caches\transforms-1\files-1.1\crashlytics-core-2.3.8.aar\465e3ee99587f3251ce54549196c787f\AndroidManifest.xml:9:5-67
-MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.3.8] C:\Users\Mina\.gradle\caches\transforms-1\files-1.1\crashlytics-core-2.3.8.aar\465e3ee99587f3251ce54549196c787f\AndroidManifest.xml:9:5-67
-MERGED from [com.crashlytics.sdk.android:answers:1.3.6] C:\Users\Mina\.gradle\caches\transforms-1\files-1.1\answers-1.3.6.aar\e21acd8b0c4c643896a32e3e55158ec8\AndroidManifest.xml:9:5-67
-MERGED from [com.crashlytics.sdk.android:answers:1.3.6] C:\Users\Mina\.gradle\caches\transforms-1\files-1.1\answers-1.3.6.aar\e21acd8b0c4c643896a32e3e55158ec8\AndroidManifest.xml:9:5-67
-MERGED from [io.fabric.sdk.android:fabric:1.3.10] C:\Users\Mina\.gradle\caches\transforms-1\files-1.1\fabric-1.3.10.aar\9d4fcac84e2a2f71c9cced6d820522d9\AndroidManifest.xml:25:5-67
-MERGED from [io.fabric.sdk.android:fabric:1.3.10] C:\Users\Mina\.gradle\caches\transforms-1\files-1.1\fabric-1.3.10.aar\9d4fcac84e2a2f71c9cced6d820522d9\AndroidManifest.xml:25:5-67
-MERGED from [com.crashlytics.sdk.android:beta:1.1.4] C:\Users\Mina\.gradle\caches\transforms-1\files-1.1\beta-1.1.4.aar\20c15004ec24fed90ea8d0efaca2baee\AndroidManifest.xml:9:5-67
-MERGED from [com.crashlytics.sdk.android:beta:1.1.4] C:\Users\Mina\.gradle\caches\transforms-1\files-1.1\beta-1.1.4.aar\20c15004ec24fed90ea8d0efaca2baee\AndroidManifest.xml:9:5-67
+ADDED from C:\Users\JD\Documents\GitHub\SmartProbe\smartProbe\src\main\AndroidManifest.xml:17:5-67
+MERGED from [com.crashlytics.sdk.android:crashlytics:2.5.5] C:\Users\JD\.gradle\caches\transforms-1\files-1.1\crashlytics-2.5.5.aar\be425ca7f6976c2c9eb028f902d11755\AndroidManifest.xml:9:5-67
+MERGED from [com.crashlytics.sdk.android:crashlytics:2.5.5] C:\Users\JD\.gradle\caches\transforms-1\files-1.1\crashlytics-2.5.5.aar\be425ca7f6976c2c9eb028f902d11755\AndroidManifest.xml:9:5-67
+MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.3.8] C:\Users\JD\.gradle\caches\transforms-1\files-1.1\crashlytics-core-2.3.8.aar\9c17a41c620f782d502059dddb4a247b\AndroidManifest.xml:9:5-67
+MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.3.8] C:\Users\JD\.gradle\caches\transforms-1\files-1.1\crashlytics-core-2.3.8.aar\9c17a41c620f782d502059dddb4a247b\AndroidManifest.xml:9:5-67
+MERGED from [com.crashlytics.sdk.android:answers:1.3.6] C:\Users\JD\.gradle\caches\transforms-1\files-1.1\answers-1.3.6.aar\e62a210f89c856556ab9b2404d4b7c49\AndroidManifest.xml:9:5-67
+MERGED from [com.crashlytics.sdk.android:answers:1.3.6] C:\Users\JD\.gradle\caches\transforms-1\files-1.1\answers-1.3.6.aar\e62a210f89c856556ab9b2404d4b7c49\AndroidManifest.xml:9:5-67
+MERGED from [io.fabric.sdk.android:fabric:1.3.10] C:\Users\JD\.gradle\caches\transforms-1\files-1.1\fabric-1.3.10.aar\90107e0917593847f5fa37ebb55eddaa\AndroidManifest.xml:25:5-67
+MERGED from [io.fabric.sdk.android:fabric:1.3.10] C:\Users\JD\.gradle\caches\transforms-1\files-1.1\fabric-1.3.10.aar\90107e0917593847f5fa37ebb55eddaa\AndroidManifest.xml:25:5-67
+MERGED from [com.crashlytics.sdk.android:beta:1.1.4] C:\Users\JD\.gradle\caches\transforms-1\files-1.1\beta-1.1.4.aar\9b97dcdc90c9b98d6c10cef159d0c7c0\AndroidManifest.xml:9:5-67
+MERGED from [com.crashlytics.sdk.android:beta:1.1.4] C:\Users\JD\.gradle\caches\transforms-1\files-1.1\beta-1.1.4.aar\9b97dcdc90c9b98d6c10cef159d0c7c0\AndroidManifest.xml:9:5-67
 	android:name
-		ADDED from C:\Users\Mina\AndroidStudioProjects\SmartProbe\smartProbe\src\main\AndroidManifest.xml:20:22-64
+		ADDED from C:\Users\JD\Documents\GitHub\SmartProbe\smartProbe\src\main\AndroidManifest.xml:17:22-64
 uses-permission#android.permission.ACCESS_NETWORK_STATE
-ADDED from C:\Users\Mina\AndroidStudioProjects\SmartProbe\smartProbe\src\main\AndroidManifest.xml:23:5-79
-MERGED from [:usbSerialLibrary] C:\Users\Mina\.gradle\caches\transforms-1\files-1.1\usbSerialLibrary-release.aar\6f44fcca004a93ad6e0b1ec97fbf8853\AndroidManifest.xml:16:5-79
-MERGED from [:usbSerialLibrary] C:\Users\Mina\.gradle\caches\transforms-1\files-1.1\usbSerialLibrary-release.aar\6f44fcca004a93ad6e0b1ec97fbf8853\AndroidManifest.xml:16:5-79
+ADDED from C:\Users\JD\Documents\GitHub\SmartProbe\smartProbe\src\main\AndroidManifest.xml:18:5-79
+MERGED from [:usbSerialLibrary] C:\Users\JD\.gradle\caches\transforms-1\files-1.1\usbSerialLibrary-release.aar\16892348e6d3e1d406a0e699f6a95513\AndroidManifest.xml:16:5-79
+MERGED from [:usbSerialLibrary] C:\Users\JD\.gradle\caches\transforms-1\files-1.1\usbSerialLibrary-release.aar\16892348e6d3e1d406a0e699f6a95513\AndroidManifest.xml:16:5-79
 	android:name
-		ADDED from C:\Users\Mina\AndroidStudioProjects\SmartProbe\smartProbe\src\main\AndroidManifest.xml:23:22-76
+		ADDED from C:\Users\JD\Documents\GitHub\SmartProbe\smartProbe\src\main\AndroidManifest.xml:18:22-76
 uses-permission#android.permission.READ_PHONE_STATE
-ADDED from C:\Users\Mina\AndroidStudioProjects\SmartProbe\smartProbe\src\main\AndroidManifest.xml:26:5-75
+ADDED from C:\Users\JD\Documents\GitHub\SmartProbe\smartProbe\src\main\AndroidManifest.xml:19:5-75
 	android:name
-		ADDED from C:\Users\Mina\AndroidStudioProjects\SmartProbe\smartProbe\src\main\AndroidManifest.xml:26:22-72
+		ADDED from C:\Users\JD\Documents\GitHub\SmartProbe\smartProbe\src\main\AndroidManifest.xml:19:22-72
 uses-permission#android.permission.GET_TASKS
-ADDED from C:\Users\Mina\AndroidStudioProjects\SmartProbe\smartProbe\src\main\AndroidManifest.xml:28:5-68
+ADDED from C:\Users\JD\Documents\GitHub\SmartProbe\smartProbe\src\main\AndroidManifest.xml:20:5-68
 	android:name
-		ADDED from C:\Users\Mina\AndroidStudioProjects\SmartProbe\smartProbe\src\main\AndroidManifest.xml:28:22-65
+		ADDED from C:\Users\JD\Documents\GitHub\SmartProbe\smartProbe\src\main\AndroidManifest.xml:20:22-65
 uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
-ADDED from C:\Users\Mina\AndroidStudioProjects\SmartProbe\smartProbe\src\main\AndroidManifest.xml:29:5-81
+ADDED from C:\Users\JD\Documents\GitHub\SmartProbe\smartProbe\src\main\AndroidManifest.xml:21:5-81
 	android:name
-		ADDED from C:\Users\Mina\AndroidStudioProjects\SmartProbe\smartProbe\src\main\AndroidManifest.xml:29:22-78
+		ADDED from C:\Users\JD\Documents\GitHub\SmartProbe\smartProbe\src\main\AndroidManifest.xml:21:22-78
 application
-ADDED from C:\Users\Mina\AndroidStudioProjects\SmartProbe\smartProbe\src\main\AndroidManifest.xml:31:5-114:19
-MERGED from [com.android.support:design:23.3.0] C:\Users\Mina\.gradle\caches\transforms-1\files-1.1\design-23.3.0.aar\6aa72c57bb9a5de879a1d76434c0e833\AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:design:23.3.0] C:\Users\Mina\.gradle\caches\transforms-1\files-1.1\design-23.3.0.aar\6aa72c57bb9a5de879a1d76434c0e833\AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:appcompat-v7:23.3.0] C:\Users\Mina\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.3.0.aar\bf2ac4140010b50589cbabe141423532\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:appcompat-v7:23.3.0] C:\Users\Mina\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.3.0.aar\bf2ac4140010b50589cbabe141423532\AndroidManifest.xml:25:5-20
-MERGED from [com.crashlytics.sdk.android:crashlytics:2.5.5] C:\Users\Mina\.gradle\caches\transforms-1\files-1.1\crashlytics-2.5.5.aar\a990133fcb96c8ffe52389feee3a9754\AndroidManifest.xml:11:5-20
-MERGED from [com.crashlytics.sdk.android:crashlytics:2.5.5] C:\Users\Mina\.gradle\caches\transforms-1\files-1.1\crashlytics-2.5.5.aar\a990133fcb96c8ffe52389feee3a9754\AndroidManifest.xml:11:5-20
-MERGED from [com.android.support:animated-vector-drawable:23.3.0] C:\Users\Mina\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-23.3.0.aar\f01b0c60779540892f01888230df8763\AndroidManifest.xml:7:5-20
-MERGED from [com.android.support:animated-vector-drawable:23.3.0] C:\Users\Mina\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-23.3.0.aar\f01b0c60779540892f01888230df8763\AndroidManifest.xml:7:5-20
-MERGED from [com.android.support:support-vector-drawable:23.3.0] C:\Users\Mina\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-23.3.0.aar\25f72bdd99307b66feeae3baeccbf1a0\AndroidManifest.xml:7:5-20
-MERGED from [com.android.support:support-vector-drawable:23.3.0] C:\Users\Mina\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-23.3.0.aar\25f72bdd99307b66feeae3baeccbf1a0\AndroidManifest.xml:7:5-20
-MERGED from [com.android.support:support-v4:23.3.0] C:\Users\Mina\.gradle\caches\transforms-1\files-1.1\support-v4-23.3.0.aar\e1e90ef97c9c3c56f7c7f16bb9aa400f\AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:support-v4:23.3.0] C:\Users\Mina\.gradle\caches\transforms-1\files-1.1\support-v4-23.3.0.aar\e1e90ef97c9c3c56f7c7f16bb9aa400f\AndroidManifest.xml:22:5-20
-MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.3.8] C:\Users\Mina\.gradle\caches\transforms-1\files-1.1\crashlytics-core-2.3.8.aar\465e3ee99587f3251ce54549196c787f\AndroidManifest.xml:11:5-20
-MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.3.8] C:\Users\Mina\.gradle\caches\transforms-1\files-1.1\crashlytics-core-2.3.8.aar\465e3ee99587f3251ce54549196c787f\AndroidManifest.xml:11:5-20
-MERGED from [com.crashlytics.sdk.android:answers:1.3.6] C:\Users\Mina\.gradle\caches\transforms-1\files-1.1\answers-1.3.6.aar\e21acd8b0c4c643896a32e3e55158ec8\AndroidManifest.xml:11:5-20
-MERGED from [com.crashlytics.sdk.android:answers:1.3.6] C:\Users\Mina\.gradle\caches\transforms-1\files-1.1\answers-1.3.6.aar\e21acd8b0c4c643896a32e3e55158ec8\AndroidManifest.xml:11:5-20
-MERGED from [io.fabric.sdk.android:fabric:1.3.10] C:\Users\Mina\.gradle\caches\transforms-1\files-1.1\fabric-1.3.10.aar\9d4fcac84e2a2f71c9cced6d820522d9\AndroidManifest.xml:27:5-20
-MERGED from [io.fabric.sdk.android:fabric:1.3.10] C:\Users\Mina\.gradle\caches\transforms-1\files-1.1\fabric-1.3.10.aar\9d4fcac84e2a2f71c9cced6d820522d9\AndroidManifest.xml:27:5-20
-MERGED from [com.crashlytics.sdk.android:beta:1.1.4] C:\Users\Mina\.gradle\caches\transforms-1\files-1.1\beta-1.1.4.aar\20c15004ec24fed90ea8d0efaca2baee\AndroidManifest.xml:11:5-20
-MERGED from [com.crashlytics.sdk.android:beta:1.1.4] C:\Users\Mina\.gradle\caches\transforms-1\files-1.1\beta-1.1.4.aar\20c15004ec24fed90ea8d0efaca2baee\AndroidManifest.xml:11:5-20
+ADDED from C:\Users\JD\Documents\GitHub\SmartProbe\smartProbe\src\main\AndroidManifest.xml:23:5-110:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\JD\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\61e5dd3b55caa5b0491400170dc01611\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\JD\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\61e5dd3b55caa5b0491400170dc01611\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:design:23.3.0] C:\Users\JD\.gradle\caches\transforms-1\files-1.1\design-23.3.0.aar\8b0ae220f1e945db6a2281002194826f\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:23.3.0] C:\Users\JD\.gradle\caches\transforms-1\files-1.1\design-23.3.0.aar\8b0ae220f1e945db6a2281002194826f\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:23.3.0] C:\Users\JD\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.3.0.aar\9bfaf776c9705c9f8c56125b71347d56\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:23.3.0] C:\Users\JD\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.3.0.aar\9bfaf776c9705c9f8c56125b71347d56\AndroidManifest.xml:25:5-20
+MERGED from [com.crashlytics.sdk.android:crashlytics:2.5.5] C:\Users\JD\.gradle\caches\transforms-1\files-1.1\crashlytics-2.5.5.aar\be425ca7f6976c2c9eb028f902d11755\AndroidManifest.xml:11:5-20
+MERGED from [com.crashlytics.sdk.android:crashlytics:2.5.5] C:\Users\JD\.gradle\caches\transforms-1\files-1.1\crashlytics-2.5.5.aar\be425ca7f6976c2c9eb028f902d11755\AndroidManifest.xml:11:5-20
+MERGED from [com.android.support:animated-vector-drawable:23.3.0] C:\Users\JD\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-23.3.0.aar\ef077c6d24fa78cc23467502b31c3252\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:animated-vector-drawable:23.3.0] C:\Users\JD\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-23.3.0.aar\ef077c6d24fa78cc23467502b31c3252\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-vector-drawable:23.3.0] C:\Users\JD\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-23.3.0.aar\2f93cf2e4e5340483ef354419612f6e8\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-vector-drawable:23.3.0] C:\Users\JD\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-23.3.0.aar\2f93cf2e4e5340483ef354419612f6e8\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-v4:23.3.0] C:\Users\JD\.gradle\caches\transforms-1\files-1.1\support-v4-23.3.0.aar\b00bb7a632ef44c54602a7b9612d5a21\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.3.0] C:\Users\JD\.gradle\caches\transforms-1\files-1.1\support-v4-23.3.0.aar\b00bb7a632ef44c54602a7b9612d5a21\AndroidManifest.xml:22:5-20
+MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.3.8] C:\Users\JD\.gradle\caches\transforms-1\files-1.1\crashlytics-core-2.3.8.aar\9c17a41c620f782d502059dddb4a247b\AndroidManifest.xml:11:5-20
+MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.3.8] C:\Users\JD\.gradle\caches\transforms-1\files-1.1\crashlytics-core-2.3.8.aar\9c17a41c620f782d502059dddb4a247b\AndroidManifest.xml:11:5-20
+MERGED from [com.crashlytics.sdk.android:answers:1.3.6] C:\Users\JD\.gradle\caches\transforms-1\files-1.1\answers-1.3.6.aar\e62a210f89c856556ab9b2404d4b7c49\AndroidManifest.xml:11:5-20
+MERGED from [com.crashlytics.sdk.android:answers:1.3.6] C:\Users\JD\.gradle\caches\transforms-1\files-1.1\answers-1.3.6.aar\e62a210f89c856556ab9b2404d4b7c49\AndroidManifest.xml:11:5-20
+MERGED from [io.fabric.sdk.android:fabric:1.3.10] C:\Users\JD\.gradle\caches\transforms-1\files-1.1\fabric-1.3.10.aar\90107e0917593847f5fa37ebb55eddaa\AndroidManifest.xml:27:5-20
+MERGED from [io.fabric.sdk.android:fabric:1.3.10] C:\Users\JD\.gradle\caches\transforms-1\files-1.1\fabric-1.3.10.aar\90107e0917593847f5fa37ebb55eddaa\AndroidManifest.xml:27:5-20
+MERGED from [com.crashlytics.sdk.android:beta:1.1.4] C:\Users\JD\.gradle\caches\transforms-1\files-1.1\beta-1.1.4.aar\9b97dcdc90c9b98d6c10cef159d0c7c0\AndroidManifest.xml:11:5-20
+MERGED from [com.crashlytics.sdk.android:beta:1.1.4] C:\Users\JD\.gradle\caches\transforms-1\files-1.1\beta-1.1.4.aar\9b97dcdc90c9b98d6c10cef159d0c7c0\AndroidManifest.xml:11:5-20
 	android:label
-		ADDED from C:\Users\Mina\AndroidStudioProjects\SmartProbe\smartProbe\src\main\AndroidManifest.xml:34:9-25
+		ADDED from C:\Users\JD\Documents\GitHub\SmartProbe\smartProbe\src\main\AndroidManifest.xml:28:9-25
 	android:hardwareAccelerated
-		ADDED from C:\Users\Mina\AndroidStudioProjects\SmartProbe\smartProbe\src\main\AndroidManifest.xml:36:9-43
+		ADDED from C:\Users\JD\Documents\GitHub\SmartProbe\smartProbe\src\main\AndroidManifest.xml:26:9-43
 	android:icon
-		ADDED from C:\Users\Mina\AndroidStudioProjects\SmartProbe\smartProbe\src\main\AndroidManifest.xml:33:9-45
+		ADDED from C:\Users\JD\Documents\GitHub\SmartProbe\smartProbe\src\main\AndroidManifest.xml:27:9-45
 	android:allowBackup
-		ADDED from C:\Users\Mina\AndroidStudioProjects\SmartProbe\smartProbe\src\main\AndroidManifest.xml:32:9-35
+		ADDED from C:\Users\JD\Documents\GitHub\SmartProbe\smartProbe\src\main\AndroidManifest.xml:25:9-35
 	android:theme
-		ADDED from C:\Users\Mina\AndroidStudioProjects\SmartProbe\smartProbe\src\main\AndroidManifest.xml:35:9-52
+		ADDED from C:\Users\JD\Documents\GitHub\SmartProbe\smartProbe\src\main\AndroidManifest.xml:29:9-52
 	android:name
-		ADDED from C:\Users\Mina\AndroidStudioProjects\SmartProbe\smartProbe\src\main\AndroidManifest.xml:37:9-45
+		ADDED from C:\Users\JD\Documents\GitHub\SmartProbe\smartProbe\src\main\AndroidManifest.xml:24:9-45
+activity#com.test.smartprobe.activity.CaptureProbeActivity
+ADDED from C:\Users\JD\Documents\GitHub\SmartProbe\smartProbe\src\main\AndroidManifest.xml:30:9-76
+	android:name
+		ADDED from C:\Users\JD\Documents\GitHub\SmartProbe\smartProbe\src\main\AndroidManifest.xml:30:19-64
 activity#com.test.smartprobe.activity.SplashActivity
-ADDED from C:\Users\Mina\AndroidStudioProjects\SmartProbe\smartProbe\src\main\AndroidManifest.xml:39:9-53:20
+ADDED from C:\Users\JD\Documents\GitHub\SmartProbe\smartProbe\src\main\AndroidManifest.xml:31:9-48:20
 	android:label
-		ADDED from C:\Users\Mina\AndroidStudioProjects\SmartProbe\smartProbe\src\main\AndroidManifest.xml:41:13-45
+		ADDED from C:\Users\JD\Documents\GitHub\SmartProbe\smartProbe\src\main\AndroidManifest.xml:34:13-45
 	android:launchMode
-		ADDED from C:\Users\Mina\AndroidStudioProjects\SmartProbe\smartProbe\src\main\AndroidManifest.xml:42:13-48
+		ADDED from C:\Users\JD\Documents\GitHub\SmartProbe\smartProbe\src\main\AndroidManifest.xml:35:13-48
 	android:configChanges
-		ADDED from C:\Users\Mina\AndroidStudioProjects\SmartProbe\smartProbe\src\main\AndroidManifest.xml:43:13-74
+		ADDED from C:\Users\JD\Documents\GitHub\SmartProbe\smartProbe\src\main\AndroidManifest.xml:33:13-74
 	android:name
-		ADDED from C:\Users\Mina\AndroidStudioProjects\SmartProbe\smartProbe\src\main\AndroidManifest.xml:40:13-52
+		ADDED from C:\Users\JD\Documents\GitHub\SmartProbe\smartProbe\src\main\AndroidManifest.xml:32:13-52
 intent-filter#action:name:android.hardware.usb.action.USB_ACCESSORY_ATTACHED+action:name:android.hardware.usb.action.USB_DEVICE_ATTACHED+action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from C:\Users\Mina\AndroidStudioProjects\SmartProbe\smartProbe\src\main\AndroidManifest.xml:44:13-49:29
+ADDED from C:\Users\JD\Documents\GitHub\SmartProbe\smartProbe\src\main\AndroidManifest.xml:36:13-43:29
 action#android.intent.action.MAIN
-ADDED from C:\Users\Mina\AndroidStudioProjects\SmartProbe\smartProbe\src\main\AndroidManifest.xml:45:17-69
+ADDED from C:\Users\JD\Documents\GitHub\SmartProbe\smartProbe\src\main\AndroidManifest.xml:37:17-69
 	android:name
-		ADDED from C:\Users\Mina\AndroidStudioProjects\SmartProbe\smartProbe\src\main\AndroidManifest.xml:45:25-66
+		ADDED from C:\Users\JD\Documents\GitHub\SmartProbe\smartProbe\src\main\AndroidManifest.xml:37:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\Mina\AndroidStudioProjects\SmartProbe\smartProbe\src\main\AndroidManifest.xml:46:17-77
+ADDED from C:\Users\JD\Documents\GitHub\SmartProbe\smartProbe\src\main\AndroidManifest.xml:39:17-77
 	android:name
-		ADDED from C:\Users\Mina\AndroidStudioProjects\SmartProbe\smartProbe\src\main\AndroidManifest.xml:46:27-74
+		ADDED from C:\Users\JD\Documents\GitHub\SmartProbe\smartProbe\src\main\AndroidManifest.xml:39:27-74
 action#android.hardware.usb.action.USB_DEVICE_ATTACHED
-ADDED from C:\Users\Mina\AndroidStudioProjects\SmartProbe\smartProbe\src\main\AndroidManifest.xml:47:17-90
+ADDED from C:\Users\JD\Documents\GitHub\SmartProbe\smartProbe\src\main\AndroidManifest.xml:41:17-90
 	android:name
-		ADDED from C:\Users\Mina\AndroidStudioProjects\SmartProbe\smartProbe\src\main\AndroidManifest.xml:47:25-87
+		ADDED from C:\Users\JD\Documents\GitHub\SmartProbe\smartProbe\src\main\AndroidManifest.xml:41:25-87
 action#android.hardware.usb.action.USB_ACCESSORY_ATTACHED
-ADDED from C:\Users\Mina\AndroidStudioProjects\SmartProbe\smartProbe\src\main\AndroidManifest.xml:48:17-93
+ADDED from C:\Users\JD\Documents\GitHub\SmartProbe\smartProbe\src\main\AndroidManifest.xml:42:17-93
 	android:name
-		ADDED from C:\Users\Mina\AndroidStudioProjects\SmartProbe\smartProbe\src\main\AndroidManifest.xml:48:25-90
+		ADDED from C:\Users\JD\Documents\GitHub\SmartProbe\smartProbe\src\main\AndroidManifest.xml:42:25-90
 meta-data#android.hardware.usb.action.USB_DEVICE_ATTACHED
-ADDED from C:\Users\Mina\AndroidStudioProjects\SmartProbe\smartProbe\src\main\AndroidManifest.xml:50:13-52:57
+ADDED from C:\Users\JD\Documents\GitHub\SmartProbe\smartProbe\src\main\AndroidManifest.xml:45:13-47:57
 	android:resource
-		ADDED from C:\Users\Mina\AndroidStudioProjects\SmartProbe\smartProbe\src\main\AndroidManifest.xml:52:17-54
+		ADDED from C:\Users\JD\Documents\GitHub\SmartProbe\smartProbe\src\main\AndroidManifest.xml:47:17-54
 	android:name
-		ADDED from C:\Users\Mina\AndroidStudioProjects\SmartProbe\smartProbe\src\main\AndroidManifest.xml:51:17-79
+		ADDED from C:\Users\JD\Documents\GitHub\SmartProbe\smartProbe\src\main\AndroidManifest.xml:46:17-79
 activity#com.test.smartprobe.activity.SmartProbeActivity
-ADDED from C:\Users\Mina\AndroidStudioProjects\SmartProbe\smartProbe\src\main\AndroidManifest.xml:54:9-67:20
+ADDED from C:\Users\JD\Documents\GitHub\SmartProbe\smartProbe\src\main\AndroidManifest.xml:49:9-64:20
 	android:screenOrientation
-		ADDED from C:\Users\Mina\AndroidStudioProjects\SmartProbe\smartProbe\src\main\AndroidManifest.xml:58:13-56
+		ADDED from C:\Users\JD\Documents\GitHub\SmartProbe\smartProbe\src\main\AndroidManifest.xml:52:13-56
 	android:configChanges
-		ADDED from C:\Users\Mina\AndroidStudioProjects\SmartProbe\smartProbe\src\main\AndroidManifest.xml:57:13-74
+		ADDED from C:\Users\JD\Documents\GitHub\SmartProbe\smartProbe\src\main\AndroidManifest.xml:51:13-74
 	android:theme
-		ADDED from C:\Users\Mina\AndroidStudioProjects\SmartProbe\smartProbe\src\main\AndroidManifest.xml:56:13-56
+		ADDED from C:\Users\JD\Documents\GitHub\SmartProbe\smartProbe\src\main\AndroidManifest.xml:53:13-56
 	android:name
-		ADDED from C:\Users\Mina\AndroidStudioProjects\SmartProbe\smartProbe\src\main\AndroidManifest.xml:55:13-56
+		ADDED from C:\Users\JD\Documents\GitHub\SmartProbe\smartProbe\src\main\AndroidManifest.xml:50:13-56
 activity#com.test.smartprobe.activity.SettingActivity
-ADDED from C:\Users\Mina\AndroidStudioProjects\SmartProbe\smartProbe\src\main\AndroidManifest.xml:68:9-72:58
+ADDED from C:\Users\JD\Documents\GitHub\SmartProbe\smartProbe\src\main\AndroidManifest.xml:65:9-69:59
 	android:screenOrientation
-		ADDED from C:\Users\Mina\AndroidStudioProjects\SmartProbe\smartProbe\src\main\AndroidManifest.xml:72:13-56
+		ADDED from C:\Users\JD\Documents\GitHub\SmartProbe\smartProbe\src\main\AndroidManifest.xml:69:13-56
 	android:label
-		ADDED from C:\Users\Mina\AndroidStudioProjects\SmartProbe\smartProbe\src\main\AndroidManifest.xml:71:13-29
+		ADDED from C:\Users\JD\Documents\GitHub\SmartProbe\smartProbe\src\main\AndroidManifest.xml:68:13-29
 	android:configChanges
-		ADDED from C:\Users\Mina\AndroidStudioProjects\SmartProbe\smartProbe\src\main\AndroidManifest.xml:70:13-74
+		ADDED from C:\Users\JD\Documents\GitHub\SmartProbe\smartProbe\src\main\AndroidManifest.xml:67:13-74
 	android:name
-		ADDED from C:\Users\Mina\AndroidStudioProjects\SmartProbe\smartProbe\src\main\AndroidManifest.xml:69:13-53
+		ADDED from C:\Users\JD\Documents\GitHub\SmartProbe\smartProbe\src\main\AndroidManifest.xml:66:13-53
 activity#com.test.smartprobe.activity.LoginActivity
-ADDED from C:\Users\Mina\AndroidStudioProjects\SmartProbe\smartProbe\src\main\AndroidManifest.xml:73:9-80:58
+ADDED from C:\Users\JD\Documents\GitHub\SmartProbe\smartProbe\src\main\AndroidManifest.xml:70:9-77:58
 	android:screenOrientation
-		ADDED from C:\Users\Mina\AndroidStudioProjects\SmartProbe\smartProbe\src\main\AndroidManifest.xml:80:13-56
+		ADDED from C:\Users\JD\Documents\GitHub\SmartProbe\smartProbe\src\main\AndroidManifest.xml:75:13-56
 	android:label
-		ADDED from C:\Users\Mina\AndroidStudioProjects\SmartProbe\smartProbe\src\main\AndroidManifest.xml:75:13-29
+		ADDED from C:\Users\JD\Documents\GitHub\SmartProbe\smartProbe\src\main\AndroidManifest.xml:73:13-29
 	android:launchMode
-		ADDED from C:\Users\Mina\AndroidStudioProjects\SmartProbe\smartProbe\src\main\AndroidManifest.xml:76:13-48
+		ADDED from C:\Users\JD\Documents\GitHub\SmartProbe\smartProbe\src\main\AndroidManifest.xml:74:13-48
 	android:windowSoftInputMode
-		ADDED from C:\Users\Mina\AndroidStudioProjects\SmartProbe\smartProbe\src\main\AndroidManifest.xml:78:13-55
+		ADDED from C:\Users\JD\Documents\GitHub\SmartProbe\smartProbe\src\main\AndroidManifest.xml:77:13-55
 	android:configChanges
-		ADDED from C:\Users\Mina\AndroidStudioProjects\SmartProbe\smartProbe\src\main\AndroidManifest.xml:77:13-74
+		ADDED from C:\Users\JD\Documents\GitHub\SmartProbe\smartProbe\src\main\AndroidManifest.xml:72:13-74
 	android:theme
-		ADDED from C:\Users\Mina\AndroidStudioProjects\SmartProbe\smartProbe\src\main\AndroidManifest.xml:79:13-43
+		ADDED from C:\Users\JD\Documents\GitHub\SmartProbe\smartProbe\src\main\AndroidManifest.xml:76:13-43
 	android:name
-		ADDED from C:\Users\Mina\AndroidStudioProjects\SmartProbe\smartProbe\src\main\AndroidManifest.xml:74:13-51
+		ADDED from C:\Users\JD\Documents\GitHub\SmartProbe\smartProbe\src\main\AndroidManifest.xml:71:13-51
 activity#com.test.smartprobe.activity.LocationSettingActivity
-ADDED from C:\Users\Mina\AndroidStudioProjects\SmartProbe\smartProbe\src\main\AndroidManifest.xml:81:9-86:58
+ADDED from C:\Users\JD\Documents\GitHub\SmartProbe\smartProbe\src\main\AndroidManifest.xml:78:9-81:59
 	android:screenOrientation
-		ADDED from C:\Users\Mina\AndroidStudioProjects\SmartProbe\smartProbe\src\main\AndroidManifest.xml:86:13-56
+		ADDED from C:\Users\JD\Documents\GitHub\SmartProbe\smartProbe\src\main\AndroidManifest.xml:81:13-56
 	android:label
-		ADDED from C:\Users\Mina\AndroidStudioProjects\SmartProbe\smartProbe\src\main\AndroidManifest.xml:84:13-29
-	android:windowSoftInputMode
-		ADDED from C:\Users\Mina\AndroidStudioProjects\SmartProbe\smartProbe\src\main\AndroidManifest.xml:85:13-73
-	android:configChanges
-		ADDED from C:\Users\Mina\AndroidStudioProjects\SmartProbe\smartProbe\src\main\AndroidManifest.xml:83:13-63
+		ADDED from C:\Users\JD\Documents\GitHub\SmartProbe\smartProbe\src\main\AndroidManifest.xml:80:13-29
 	android:name
-		ADDED from C:\Users\Mina\AndroidStudioProjects\SmartProbe\smartProbe\src\main\AndroidManifest.xml:82:13-61
+		ADDED from C:\Users\JD\Documents\GitHub\SmartProbe\smartProbe\src\main\AndroidManifest.xml:79:13-61
 activity#com.test.smartprobe.activity.LogDetailsActivity
-ADDED from C:\Users\Mina\AndroidStudioProjects\SmartProbe\smartProbe\src\main\AndroidManifest.xml:87:9-93:58
+ADDED from C:\Users\JD\Documents\GitHub\SmartProbe\smartProbe\src\main\AndroidManifest.xml:82:9-88:58
 	android:screenOrientation
-		ADDED from C:\Users\Mina\AndroidStudioProjects\SmartProbe\smartProbe\src\main\AndroidManifest.xml:93:13-56
+		ADDED from C:\Users\JD\Documents\GitHub\SmartProbe\smartProbe\src\main\AndroidManifest.xml:86:13-56
 	android:label
-		ADDED from C:\Users\Mina\AndroidStudioProjects\SmartProbe\smartProbe\src\main\AndroidManifest.xml:90:13-29
+		ADDED from C:\Users\JD\Documents\GitHub\SmartProbe\smartProbe\src\main\AndroidManifest.xml:85:13-29
 	android:windowSoftInputMode
-		ADDED from C:\Users\Mina\AndroidStudioProjects\SmartProbe\smartProbe\src\main\AndroidManifest.xml:92:13-55
+		ADDED from C:\Users\JD\Documents\GitHub\SmartProbe\smartProbe\src\main\AndroidManifest.xml:88:13-55
 	android:configChanges
-		ADDED from C:\Users\Mina\AndroidStudioProjects\SmartProbe\smartProbe\src\main\AndroidManifest.xml:89:13-51
+		ADDED from C:\Users\JD\Documents\GitHub\SmartProbe\smartProbe\src\main\AndroidManifest.xml:84:13-51
 	android:theme
-		ADDED from C:\Users\Mina\AndroidStudioProjects\SmartProbe\smartProbe\src\main\AndroidManifest.xml:91:13-56
+		ADDED from C:\Users\JD\Documents\GitHub\SmartProbe\smartProbe\src\main\AndroidManifest.xml:87:13-56
 	android:name
-		ADDED from C:\Users\Mina\AndroidStudioProjects\SmartProbe\smartProbe\src\main\AndroidManifest.xml:88:13-56
+		ADDED from C:\Users\JD\Documents\GitHub\SmartProbe\smartProbe\src\main\AndroidManifest.xml:83:13-56
 service#com.test.smartprobe.launch.AutoLaunchService
-ADDED from C:\Users\Mina\AndroidStudioProjects\SmartProbe\smartProbe\src\main\AndroidManifest.xml:95:9-69
+ADDED from C:\Users\JD\Documents\GitHub\SmartProbe\smartProbe\src\main\AndroidManifest.xml:90:9-61
 	android:name
-		ADDED from C:\Users\Mina\AndroidStudioProjects\SmartProbe\smartProbe\src\main\AndroidManifest.xml:95:18-58
+		ADDED from C:\Users\JD\Documents\GitHub\SmartProbe\smartProbe\src\main\AndroidManifest.xml:90:18-58
 receiver#com.test.smartprobe.launch.BootReciever
-ADDED from C:\Users\Mina\AndroidStudioProjects\SmartProbe\smartProbe\src\main\AndroidManifest.xml:97:9-101:20
+ADDED from C:\Users\JD\Documents\GitHub\SmartProbe\smartProbe\src\main\AndroidManifest.xml:92:9-96:20
 	android:name
-		ADDED from C:\Users\Mina\AndroidStudioProjects\SmartProbe\smartProbe\src\main\AndroidManifest.xml:97:19-54
+		ADDED from C:\Users\JD\Documents\GitHub\SmartProbe\smartProbe\src\main\AndroidManifest.xml:92:19-54
 intent-filter#action:name:android.intent.action.BOOT_COMPLETED
-ADDED from C:\Users\Mina\AndroidStudioProjects\SmartProbe\smartProbe\src\main\AndroidManifest.xml:98:13-100:29
+ADDED from C:\Users\JD\Documents\GitHub\SmartProbe\smartProbe\src\main\AndroidManifest.xml:93:13-95:29
 action#android.intent.action.BOOT_COMPLETED
-ADDED from C:\Users\Mina\AndroidStudioProjects\SmartProbe\smartProbe\src\main\AndroidManifest.xml:99:17-79
+ADDED from C:\Users\JD\Documents\GitHub\SmartProbe\smartProbe\src\main\AndroidManifest.xml:94:17-79
 	android:name
-		ADDED from C:\Users\Mina\AndroidStudioProjects\SmartProbe\smartProbe\src\main\AndroidManifest.xml:99:25-76
+		ADDED from C:\Users\JD\Documents\GitHub\SmartProbe\smartProbe\src\main\AndroidManifest.xml:94:25-76
 receiver#com.test.smartprobe.launch.ServiceRestarterBroadcastReceiver
-ADDED from C:\Users\Mina\AndroidStudioProjects\SmartProbe\smartProbe\src\main\AndroidManifest.xml:102:9-110:20
+ADDED from C:\Users\JD\Documents\GitHub\SmartProbe\smartProbe\src\main\AndroidManifest.xml:97:9-105:20
 	android:enabled
-		ADDED from C:\Users\Mina\AndroidStudioProjects\SmartProbe\smartProbe\src\main\AndroidManifest.xml:104:13-35
+		ADDED from C:\Users\JD\Documents\GitHub\SmartProbe\smartProbe\src\main\AndroidManifest.xml:99:13-35
 	android:label
-		ADDED from C:\Users\Mina\AndroidStudioProjects\SmartProbe\smartProbe\src\main\AndroidManifest.xml:106:13-54
+		ADDED from C:\Users\JD\Documents\GitHub\SmartProbe\smartProbe\src\main\AndroidManifest.xml:101:13-54
 	android:exported
-		ADDED from C:\Users\Mina\AndroidStudioProjects\SmartProbe\smartProbe\src\main\AndroidManifest.xml:105:13-36
+		ADDED from C:\Users\JD\Documents\GitHub\SmartProbe\smartProbe\src\main\AndroidManifest.xml:100:13-36
 	android:name
-		ADDED from C:\Users\Mina\AndroidStudioProjects\SmartProbe\smartProbe\src\main\AndroidManifest.xml:103:13-69
+		ADDED from C:\Users\JD\Documents\GitHub\SmartProbe\smartProbe\src\main\AndroidManifest.xml:98:13-69
 intent-filter#action:name:com.test.smartprobe.launch.RestartService
-ADDED from C:\Users\Mina\AndroidStudioProjects\SmartProbe\smartProbe\src\main\AndroidManifest.xml:107:13-109:29
+ADDED from C:\Users\JD\Documents\GitHub\SmartProbe\smartProbe\src\main\AndroidManifest.xml:102:13-104:29
 action#com.test.smartprobe.launch.RestartService
-ADDED from C:\Users\Mina\AndroidStudioProjects\SmartProbe\smartProbe\src\main\AndroidManifest.xml:108:17-83
+ADDED from C:\Users\JD\Documents\GitHub\SmartProbe\smartProbe\src\main\AndroidManifest.xml:103:17-84
 	android:name
-		ADDED from C:\Users\Mina\AndroidStudioProjects\SmartProbe\smartProbe\src\main\AndroidManifest.xml:108:25-81
+		ADDED from C:\Users\JD\Documents\GitHub\SmartProbe\smartProbe\src\main\AndroidManifest.xml:103:25-81
 meta-data#io.fabric.ApiKey
-ADDED from C:\Users\Mina\AndroidStudioProjects\SmartProbe\smartProbe\src\main\AndroidManifest.xml:111:9-113:72
+ADDED from C:\Users\JD\Documents\GitHub\SmartProbe\smartProbe\src\main\AndroidManifest.xml:107:9-109:72
 	android:value
-		ADDED from C:\Users\Mina\AndroidStudioProjects\SmartProbe\smartProbe\src\main\AndroidManifest.xml:113:13-69
+		ADDED from C:\Users\JD\Documents\GitHub\SmartProbe\smartProbe\src\main\AndroidManifest.xml:109:13-69
 	android:name
-		ADDED from C:\Users\Mina\AndroidStudioProjects\SmartProbe\smartProbe\src\main\AndroidManifest.xml:112:13-44
+		ADDED from C:\Users\JD\Documents\GitHub\SmartProbe\smartProbe\src\main\AndroidManifest.xml:108:13-44
 uses-sdk
-INJECTED from C:\Users\Mina\AndroidStudioProjects\SmartProbe\smartProbe\src\main\AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from C:\Users\Mina\AndroidStudioProjects\SmartProbe\smartProbe\src\main\AndroidManifest.xml
-INJECTED from C:\Users\Mina\AndroidStudioProjects\SmartProbe\smartProbe\src\main\AndroidManifest.xml
-MERGED from [:usbSerialLibrary] C:\Users\Mina\.gradle\caches\transforms-1\files-1.1\usbSerialLibrary-release.aar\6f44fcca004a93ad6e0b1ec97fbf8853\AndroidManifest.xml:7:5-9:41
-MERGED from [:usbSerialLibrary] C:\Users\Mina\.gradle\caches\transforms-1\files-1.1\usbSerialLibrary-release.aar\6f44fcca004a93ad6e0b1ec97fbf8853\AndroidManifest.xml:7:5-9:41
-MERGED from [com.android.support:design:23.3.0] C:\Users\Mina\.gradle\caches\transforms-1\files-1.1\design-23.3.0.aar\6aa72c57bb9a5de879a1d76434c0e833\AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:design:23.3.0] C:\Users\Mina\.gradle\caches\transforms-1\files-1.1\design-23.3.0.aar\6aa72c57bb9a5de879a1d76434c0e833\AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:appcompat-v7:23.3.0] C:\Users\Mina\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.3.0.aar\bf2ac4140010b50589cbabe141423532\AndroidManifest.xml:21:5-23:78
-MERGED from [com.android.support:appcompat-v7:23.3.0] C:\Users\Mina\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.3.0.aar\bf2ac4140010b50589cbabe141423532\AndroidManifest.xml:21:5-23:78
-MERGED from [com.crashlytics.sdk.android:crashlytics:2.5.5] C:\Users\Mina\.gradle\caches\transforms-1\files-1.1\crashlytics-2.5.5.aar\a990133fcb96c8ffe52389feee3a9754\AndroidManifest.xml:7:5-43
-MERGED from [com.crashlytics.sdk.android:crashlytics:2.5.5] C:\Users\Mina\.gradle\caches\transforms-1\files-1.1\crashlytics-2.5.5.aar\a990133fcb96c8ffe52389feee3a9754\AndroidManifest.xml:7:5-43
-MERGED from [com.android.support:animated-vector-drawable:23.3.0] C:\Users\Mina\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-23.3.0.aar\f01b0c60779540892f01888230df8763\AndroidManifest.xml:5:5-44
-MERGED from [com.android.support:animated-vector-drawable:23.3.0] C:\Users\Mina\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-23.3.0.aar\f01b0c60779540892f01888230df8763\AndroidManifest.xml:5:5-44
-MERGED from [com.android.support:support-vector-drawable:23.3.0] C:\Users\Mina\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-23.3.0.aar\25f72bdd99307b66feeae3baeccbf1a0\AndroidManifest.xml:5:5-43
-MERGED from [com.android.support:support-vector-drawable:23.3.0] C:\Users\Mina\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-23.3.0.aar\25f72bdd99307b66feeae3baeccbf1a0\AndroidManifest.xml:5:5-43
-MERGED from [com.android.support:recyclerview-v7:23.3.0] C:\Users\Mina\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-23.3.0.aar\41ac24fe152b92fdcd6ebe29a4f78631\AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:recyclerview-v7:23.3.0] C:\Users\Mina\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-23.3.0.aar\41ac24fe152b92fdcd6ebe29a4f78631\AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:support-v4:23.3.0] C:\Users\Mina\.gradle\caches\transforms-1\files-1.1\support-v4-23.3.0.aar\e1e90ef97c9c3c56f7c7f16bb9aa400f\AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:support-v4:23.3.0] C:\Users\Mina\.gradle\caches\transforms-1\files-1.1\support-v4-23.3.0.aar\e1e90ef97c9c3c56f7c7f16bb9aa400f\AndroidManifest.xml:20:5-43
-MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.3.8] C:\Users\Mina\.gradle\caches\transforms-1\files-1.1\crashlytics-core-2.3.8.aar\465e3ee99587f3251ce54549196c787f\AndroidManifest.xml:7:5-43
-MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.3.8] C:\Users\Mina\.gradle\caches\transforms-1\files-1.1\crashlytics-core-2.3.8.aar\465e3ee99587f3251ce54549196c787f\AndroidManifest.xml:7:5-43
-MERGED from [com.crashlytics.sdk.android:answers:1.3.6] C:\Users\Mina\.gradle\caches\transforms-1\files-1.1\answers-1.3.6.aar\e21acd8b0c4c643896a32e3e55158ec8\AndroidManifest.xml:7:5-43
-MERGED from [com.crashlytics.sdk.android:answers:1.3.6] C:\Users\Mina\.gradle\caches\transforms-1\files-1.1\answers-1.3.6.aar\e21acd8b0c4c643896a32e3e55158ec8\AndroidManifest.xml:7:5-43
-MERGED from [io.fabric.sdk.android:fabric:1.3.10] C:\Users\Mina\.gradle\caches\transforms-1\files-1.1\fabric-1.3.10.aar\9d4fcac84e2a2f71c9cced6d820522d9\AndroidManifest.xml:23:5-43
-MERGED from [io.fabric.sdk.android:fabric:1.3.10] C:\Users\Mina\.gradle\caches\transforms-1\files-1.1\fabric-1.3.10.aar\9d4fcac84e2a2f71c9cced6d820522d9\AndroidManifest.xml:23:5-43
-MERGED from [com.crashlytics.sdk.android:beta:1.1.4] C:\Users\Mina\.gradle\caches\transforms-1\files-1.1\beta-1.1.4.aar\20c15004ec24fed90ea8d0efaca2baee\AndroidManifest.xml:7:5-43
-MERGED from [com.crashlytics.sdk.android:beta:1.1.4] C:\Users\Mina\.gradle\caches\transforms-1\files-1.1\beta-1.1.4.aar\20c15004ec24fed90ea8d0efaca2baee\AndroidManifest.xml:7:5-43
-INJECTED from C:\Users\Mina\AndroidStudioProjects\SmartProbe\smartProbe\src\main\AndroidManifest.xml
-INJECTED from C:\Users\Mina\AndroidStudioProjects\SmartProbe\smartProbe\src\main\AndroidManifest.xml
+INJECTED from C:\Users\JD\Documents\GitHub\SmartProbe\smartProbe\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\JD\Documents\GitHub\SmartProbe\smartProbe\src\main\AndroidManifest.xml
+INJECTED from C:\Users\JD\Documents\GitHub\SmartProbe\smartProbe\src\main\AndroidManifest.xml
+MERGED from [:usbSerialLibrary] C:\Users\JD\.gradle\caches\transforms-1\files-1.1\usbSerialLibrary-release.aar\16892348e6d3e1d406a0e699f6a95513\AndroidManifest.xml:7:5-9:41
+MERGED from [:usbSerialLibrary] C:\Users\JD\.gradle\caches\transforms-1\files-1.1\usbSerialLibrary-release.aar\16892348e6d3e1d406a0e699f6a95513\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\JD\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\61e5dd3b55caa5b0491400170dc01611\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\JD\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\61e5dd3b55caa5b0491400170dc01611\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:design:23.3.0] C:\Users\JD\.gradle\caches\transforms-1\files-1.1\design-23.3.0.aar\8b0ae220f1e945db6a2281002194826f\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:design:23.3.0] C:\Users\JD\.gradle\caches\transforms-1\files-1.1\design-23.3.0.aar\8b0ae220f1e945db6a2281002194826f\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:23.3.0] C:\Users\JD\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.3.0.aar\9bfaf776c9705c9f8c56125b71347d56\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:23.3.0] C:\Users\JD\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.3.0.aar\9bfaf776c9705c9f8c56125b71347d56\AndroidManifest.xml:21:5-23:78
+MERGED from [com.crashlytics.sdk.android:crashlytics:2.5.5] C:\Users\JD\.gradle\caches\transforms-1\files-1.1\crashlytics-2.5.5.aar\be425ca7f6976c2c9eb028f902d11755\AndroidManifest.xml:7:5-43
+MERGED from [com.crashlytics.sdk.android:crashlytics:2.5.5] C:\Users\JD\.gradle\caches\transforms-1\files-1.1\crashlytics-2.5.5.aar\be425ca7f6976c2c9eb028f902d11755\AndroidManifest.xml:7:5-43
+MERGED from [com.android.support:animated-vector-drawable:23.3.0] C:\Users\JD\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-23.3.0.aar\ef077c6d24fa78cc23467502b31c3252\AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:animated-vector-drawable:23.3.0] C:\Users\JD\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-23.3.0.aar\ef077c6d24fa78cc23467502b31c3252\AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:support-vector-drawable:23.3.0] C:\Users\JD\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-23.3.0.aar\2f93cf2e4e5340483ef354419612f6e8\AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:support-vector-drawable:23.3.0] C:\Users\JD\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-23.3.0.aar\2f93cf2e4e5340483ef354419612f6e8\AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:recyclerview-v7:23.3.0] C:\Users\JD\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-23.3.0.aar\c7796b8c3d4e7dbfdfe1ff270625c0c9\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:23.3.0] C:\Users\JD\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-23.3.0.aar\c7796b8c3d4e7dbfdfe1ff270625c0c9\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.3.0] C:\Users\JD\.gradle\caches\transforms-1\files-1.1\support-v4-23.3.0.aar\b00bb7a632ef44c54602a7b9612d5a21\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.3.0] C:\Users\JD\.gradle\caches\transforms-1\files-1.1\support-v4-23.3.0.aar\b00bb7a632ef44c54602a7b9612d5a21\AndroidManifest.xml:20:5-43
+MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.3.8] C:\Users\JD\.gradle\caches\transforms-1\files-1.1\crashlytics-core-2.3.8.aar\9c17a41c620f782d502059dddb4a247b\AndroidManifest.xml:7:5-43
+MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.3.8] C:\Users\JD\.gradle\caches\transforms-1\files-1.1\crashlytics-core-2.3.8.aar\9c17a41c620f782d502059dddb4a247b\AndroidManifest.xml:7:5-43
+MERGED from [com.crashlytics.sdk.android:answers:1.3.6] C:\Users\JD\.gradle\caches\transforms-1\files-1.1\answers-1.3.6.aar\e62a210f89c856556ab9b2404d4b7c49\AndroidManifest.xml:7:5-43
+MERGED from [com.crashlytics.sdk.android:answers:1.3.6] C:\Users\JD\.gradle\caches\transforms-1\files-1.1\answers-1.3.6.aar\e62a210f89c856556ab9b2404d4b7c49\AndroidManifest.xml:7:5-43
+MERGED from [io.fabric.sdk.android:fabric:1.3.10] C:\Users\JD\.gradle\caches\transforms-1\files-1.1\fabric-1.3.10.aar\90107e0917593847f5fa37ebb55eddaa\AndroidManifest.xml:23:5-43
+MERGED from [io.fabric.sdk.android:fabric:1.3.10] C:\Users\JD\.gradle\caches\transforms-1\files-1.1\fabric-1.3.10.aar\90107e0917593847f5fa37ebb55eddaa\AndroidManifest.xml:23:5-43
+MERGED from [com.crashlytics.sdk.android:beta:1.1.4] C:\Users\JD\.gradle\caches\transforms-1\files-1.1\beta-1.1.4.aar\9b97dcdc90c9b98d6c10cef159d0c7c0\AndroidManifest.xml:7:5-43
+MERGED from [com.crashlytics.sdk.android:beta:1.1.4] C:\Users\JD\.gradle\caches\transforms-1\files-1.1\beta-1.1.4.aar\9b97dcdc90c9b98d6c10cef159d0c7c0\AndroidManifest.xml:7:5-43
+INJECTED from C:\Users\JD\Documents\GitHub\SmartProbe\smartProbe\src\main\AndroidManifest.xml
+INJECTED from C:\Users\JD\Documents\GitHub\SmartProbe\smartProbe\src\main\AndroidManifest.xml
 	tools:overrideLibrary
-		ADDED from [com.android.support:appcompat-v7:23.3.0] C:\Users\Mina\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.3.0.aar\bf2ac4140010b50589cbabe141423532\AndroidManifest.xml:23:9-75
+		ADDED from [com.android.support:appcompat-v7:23.3.0] C:\Users\JD\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.3.0.aar\9bfaf776c9705c9f8c56125b71347d56\AndroidManifest.xml:23:9-75
 	android:targetSdkVersion
-		INJECTED from C:\Users\Mina\AndroidStudioProjects\SmartProbe\smartProbe\src\main\AndroidManifest.xml
-		ADDED from C:\Users\Mina\AndroidStudioProjects\SmartProbe\smartProbe\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\Mina\AndroidStudioProjects\SmartProbe\smartProbe\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\JD\Documents\GitHub\SmartProbe\smartProbe\src\main\AndroidManifest.xml
+		ADDED from C:\Users\JD\Documents\GitHub\SmartProbe\smartProbe\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\JD\Documents\GitHub\SmartProbe\smartProbe\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from C:\Users\Mina\AndroidStudioProjects\SmartProbe\smartProbe\src\main\AndroidManifest.xml
-		ADDED from C:\Users\Mina\AndroidStudioProjects\SmartProbe\smartProbe\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\Mina\AndroidStudioProjects\SmartProbe\smartProbe\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\JD\Documents\GitHub\SmartProbe\smartProbe\src\main\AndroidManifest.xml
+		ADDED from C:\Users\JD\Documents\GitHub\SmartProbe\smartProbe\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\JD\Documents\GitHub\SmartProbe\smartProbe\src\main\AndroidManifest.xml

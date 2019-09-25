@@ -1152,105 +1152,15 @@ public class SmartProbeActivity extends AppCompatActivity implements NavigationV
 
     @Override
     public boolean onCreateOptionsMenu(Menu menu) {
-        // TODO Auto-generated method stub
         return super.onCreateOptionsMenu(menu);
-//        MenuInflater inflater = getMenuInflater();
-//        inflater.inflate(R.menu.top_menu, menu);
-//        return true;
-
     }
 
     @Override
     public boolean onOptionsItemSelected(MenuItem item) {
-        // TODO Auto-generated method stub
-        // return super.onOptionsItemSelected(item);
-
         if (t.onOptionsItemSelected(item)) {
             return true;
         }
         return super.onOptionsItemSelected(item);
-
-//        switch (item.getItemId()) {
-//            case R.id.setting:
-//                try {
-//
-//                    Intent myIntent = new Intent(this,
-//                            SettingActivity.class);
-//                    startActivityForResult(myIntent, SettingActivity.REQUEST_CODE);
-//                    // SmartProbeActivity.this.finish();
-//                } catch (Exception e) {
-//                    // TODO: handle exception
-//                    e.printStackTrace();
-//                }
-//
-//                return true;
-//
-//            case R.id.reload:
-//                try {
-////                    webView.clearCache(true);
-////                    webView.clearHistory();
-////                    SmartProbeActivity.this.finish();
-////                    Intent myIntentSmart = new Intent(this,
-////                            SmartProbeActivity.class);
-////                    startActivity(myIntentSmart);
-//
-//                    loadProbeList(true,true);
-////                    createWebContentProbeList.displayLatestData();
-//
-//
-//                } catch (Exception e) {
-//                    e.printStackTrace();
-//                }
-//                return true;
-//            case R.id.reset:
-//                try {
-//                    LogUtil.writeLogTest("+++++  Reset alarm ++++");
-//                    createWebContentProbeList.resetAlarm();
-//
-//                } catch (Exception e) {
-//                    e.printStackTrace();
-//                }
-//                return true;
-//
-//            case R.id.location_setting:
-//
-//                try {
-//                    webView.clearCache(true);
-//                    webView.clearHistory();
-//                    Intent myIntentLocation = new Intent(this,
-//                            LocationSettingActivity.class);
-//                    startActivity(myIntentLocation);
-//                    // SmartProbeActivity.this.finish();
-//                } catch (Exception e) {
-//                    e.printStackTrace();
-//                }
-//                return true;
-//
-//            case R.id.logout:
-//
-//                try {
-//                   logout(false);
-//
-//                } catch (Exception e) {
-//                    e.printStackTrace();
-//                }
-//                return true;
-//
-//            case R.id.checkUpdate:
-//
-//                try {
-//
-//                    checkAppVersion(true);
-//
-//                } catch (Exception e) {
-//                    e.printStackTrace();
-//                }
-//                return true;
-//
-//            default:
-//
-//                return false;
-//        }
 
     }
 
